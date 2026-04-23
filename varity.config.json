@@ -1,0 +1,5 @@
+{
+  "name": "ollama-inference",
+  "framework": "fastapi",
+  "start": "uvicorn main:app --host 0.0.0.0 --port 8080"
+}
